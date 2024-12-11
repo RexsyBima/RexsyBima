@@ -21,12 +21,10 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 <img align="left" alt="html5" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<br />
+
 <br />
 
 ---
-
-## My Articles
 
 ## Currently...
 1. 🔭Developing a portofolio with YFAP (Yew, FastAPI, PostgresSQL) Stack

@@ -22,7 +22,12 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 <br />
 
 ---
-## Currently...
+## 💪Currently...
 1. 🔭Developing a portofolio with YFAP (Yew, FastAPI, PostgresSQL) Stack
 2. 🦀Into rust
 3. 🔗Preparing into Blockchain with 🦀rust and solidity
+---
+## 📰My articles
+1. [I Think You Should Learn Vim Motion](https://www.linkedin.com/posts/rexsy-bima-613779148_vim-programming-activity-7267168600988237824-5cMd?utm_source=share&utm_medium=member_desktop)
+2. [Django Class Based View made easy](https://dev.to/rexsy_bimatrimawahyu_d1/django-class-based-view-made-easy-13hm)
+

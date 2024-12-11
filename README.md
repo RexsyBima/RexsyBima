@@ -2,7 +2,7 @@
 
 **`NEXT Maven (Software Engineer/International Relations Enthusiast/Gamer)`**
 
-I'm a freelance software developer, a learning mentor for [Remote Worker Indonesia](https://remoteworker.id/) and also still is an International Relations person at heart, graduated from Jenderal Soedirman University Indonesia, trying to take on digital era one step at a time. For my 2025, i will try to inject International Relations stuffs into the programming in some way to broaden the knowledge of International Relations at the global digital era
+I'm a freelance software developer, a learning mentor for [Remote Worker Indonesia](https://remoteworker.id/) and also still is an International Relations person at heart, graduated from Jenderal Soedirman University Indonesia, in late 2023, trying to take on digital era one step at a time for now. For my 2025, i will try to inject International Relations stuffs into the programming in some way to broaden the knowledge of International Relations at the global digital era
 
 ---
 

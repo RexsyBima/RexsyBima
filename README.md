@@ -8,7 +8,6 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 
 
 ### 💻Programming & Tools🔨
-
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="FastAPI" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
@@ -19,6 +18,7 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 <img align="left" alt="Lua" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 <img align="left" alt="TailwindCSS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Neovim" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg" />
+<img align="left" alt="Vim" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 
 <br />
 <br />

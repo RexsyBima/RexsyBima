@@ -30,8 +30,5 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 
 ## Currently...
 1. 🔭Developing a portofolio with YFAP (Yew, FastAPI, PostgresSQL) Stack
-2. 🦀Into rust, 
+2. 🦀Into rust
 3. 🔗Preparing into Blockchain with 🦀rust and solidity
- 
-### Code Editor
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) &nbsp; **< The 🐐**

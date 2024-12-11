@@ -25,6 +25,7 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 <br />
 
 ---
+<br />
 
 ## Currently...
 1. 🔭Developing a portofolio with YFAP (Yew, FastAPI, PostgresSQL) Stack

@@ -23,7 +23,7 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 
 ---
 ## 💪Currently...
-1. 🔭Developing a portofolio with YFAP (Yew, FastAPI, PostgresSQL) Stack
+1. 🔭Developing a FastAPI + HTMX fullstack templates
 2. 🔭Trying HTMX with FastAPI for blazingly fast webdevelopment
 3. 🦀Into rust
 4. 🔗Preparing into Blockchain with 🦀rust and solidity

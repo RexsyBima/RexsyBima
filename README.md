@@ -2,7 +2,7 @@
 
 **`NEXT Maven (Software Engineer/International Relations Enthusiast/Gamer)`**
 
-I'm a freelance software developer, a learning mentor for [Remote Worker Indonesia](https://remoteworker.id/) and also still is an International Relations person at heart, graduated from Jenderal Soedirman University Indonesia, in late 2023, trying to take on digital era one step at a time for now. For my 2025, i will try to inject International Relations stuffs into the programming in some way to broaden the knowledge of International Relations at the global digital era
+I'm a freelance software developer, currently fall in love with Go and also still is an International Relations person at heart, graduated from Jenderal Soedirman University Indonesia, in late 2023, trying to take on digital era one step at a time for now. For my 2025, i will try to inject International Relations stuffs into the programming in some way to broaden the knowledge of International Relations at the global digital era
 
 ---
 
@@ -25,8 +25,7 @@ I'm a freelance software developer, a learning mentor for [Remote Worker Indones
 ## 💪Currently...
 1. 🔭Developing a FastAPI + HTMX fullstack templates
 2. 🔭Trying HTMX with FastAPI for blazingly fast webdevelopment
-3. 🦀Into rust
-4. 🔗Preparing into Blockchain with 🦀rust and solidity
+3. Falling in love with Go
 ---
 ## 📰My articles
 1. [I Think You Should Learn Vim Motion](https://www.linkedin.com/posts/rexsy-bima-613779148_vim-programming-activity-7267168600988237824-5cMd?utm_source=share&utm_medium=member_desktop)

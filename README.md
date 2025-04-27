@@ -31,3 +31,5 @@ I'm a freelance software developer, currently fall in love with Go and also stil
 1. [I Think You Should Learn Vim Motion](https://www.linkedin.com/posts/rexsy-bima-613779148_vim-programming-activity-7267168600988237824-5cMd?utm_source=share&utm_medium=member_desktop)
 2. [Django Class Based View made easy](https://dev.to/rexsy_bimatrimawahyu_d1/django-class-based-view-made-easy-13hm)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RexsyBima)](https://github.com/anuraghazra/github-readme-stats)
+
